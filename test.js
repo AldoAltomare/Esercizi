@@ -16,11 +16,3 @@ else if (Math.abs((g1 - numeroEstratto)) < Math.abs((g2 - numeroEstratto))) {
 else {
     console.log("Nessuno ha vinto, ma G2 si è avvicinato di più");
 }
-// let a:number = 5
-// let b:number = 1
-// let c:number = 7
-// if(Math.abs((a-c))<Math.abs((b-c))){
-//     console.log("a si è avvicinato di più")
-// }else{
-//     console.log("b si è avvicinato di più")
-// }
